@@ -3,7 +3,6 @@ name: anchor-plan
 description: This skill is for planning and architecting Solana Anchor Programs before writing any code. Use when the user wants to design program structure, define account layouts, map out instruction flows, plan PDA strategies, or think through state management and access control for an Anchor project.
 user-invocable: true
 allowed-tools: Read, Grep, Glob, WebFetch, WebSearch, AskUserQuestion
-argument-hint: "[program-description]"
 ---
 Anchor documentation: https://www.anchor-lang.com/docs
 Solana documentation: https://solana.com/docs
