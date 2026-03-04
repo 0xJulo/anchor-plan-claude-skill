@@ -4,8 +4,11 @@ description: This skill is for planning and architecting Solana Anchor Programs 
 user-invocable: true
 allowed-tools: Read, Grep, Glob, WebFetch, WebSearch, AskUserQuestion
 ---
-Anchor documentation: https://www.anchor-lang.com/docs
-Solana documentation: https://solana.com/docs
+
+**Docs references**
+
+- Anchor documentation: https://www.anchor-lang.com/docs
+- Solana documentation: https://solana.com/docs
 
 Follow this process when planning out Solana Programs with Anchor:
 
